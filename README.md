@@ -1,2 +1,0 @@
-# AllSprint
-Web Dynamique
